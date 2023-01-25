@@ -1,4 +1,4 @@
-package ex02_sum_n;
+package ex01_sum_n;
 
 public class Test {
 	long sum(int[] a) {

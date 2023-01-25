@@ -1,4 +1,4 @@
-package ex01_fibonacci;
+package ex01_fibonacci_10870;
 
 import java.io.BufferedReader;
 import java.io.IOException;
